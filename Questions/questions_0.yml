@@ -1,0 +1,388 @@
+
+---
+questions:
+- question: When the High 5 enter The Overlook Theater, which state flag is seen next to the U.S. Flag?
+  difficulty: medium
+  correct_answer: Colorado
+  incorrect_answers:
+  - Ohio
+  - Georgia
+  - Michigan
+- question: What was the number of the cubicle where Art3mis was held?
+  difficulty: medium
+  correct_answer: 41F
+  incorrect_answers:
+  - 40E
+  - 52C
+  - 50A
+- question: The contract that Parzival refuses to sign mentions what U.S. State?
+  difficulty: medium
+  correct_answer: Missouri
+  incorrect_answers:
+  - Wyoming
+  - Mississippi
+  - Connecticut
+- question: What Van Halen tune is the intro song to the movie?
+  difficulty: easy
+  correct_answer: Jump
+  incorrect_answers:
+  - Runnin With The Devil
+  - Dance The Night Away
+  - Panama
+- question: In what year does the movie take place?
+  difficulty: easy
+  correct_answer: twenty forty five
+  incorrect_answers:
+  - twenty tewnty five
+  - twenty thirty
+  - tewnty fifty five
+- question: In what city is the movie based?
+  difficulty: easy
+  correct_answer: Columbus
+  incorrect_answers:
+  - Macon
+  - Los Angeles
+  - Chicago
+- question: What year was Wade born?
+  difficulty: hard
+  correct_answer: twenty twenty seven
+  incorrect_answers:
+  - twenty twenty five
+  - twenty twenty
+  - twenty thirty two
+- question: Where is Aech located when he is first mentioned?
+  difficulty: hard
+  correct_answer: Sector 12
+  incorrect_answers:
+  - Sector 8
+  - Sector 10
+  - Sector 45
+- question: When did Halliday die?
+  difficulty: hard
+  correct_answer: January 07, 2040
+  incorrect_answers:
+  - July 04, 2078
+  - February 29, 2044
+  - December 02, 2042
+- question: Who is head of IOI?
+  difficulty: easy
+  correct_answer: Nolan Sorento
+  incorrect_answers:
+  - Norman Solerno
+  - Norton Solomon
+  - Neil Simon
+- question: In what city does the road race take place?
+  difficulty: easy
+  correct_answer: New York City
+  incorrect_answers:
+  - Grand Rapids
+  - Findlay
+  - Vancouver
+- question: Who is Halliday's favourite shooter? 
+  difficulty: medium
+  correct_answer: Goldeneye
+  incorrect_answers:
+  - Nightfire
+  - Goldfinger
+  - Tomorrow Never Dies
+- question: What is Halliday's favourite food?
+  difficulty: medium
+  correct_answer: Hot Pockets
+  incorrect_answers:
+  - Pizza
+  - Cheese Rolls
+  - Pop Tarts
+- question: What was Halliday's favourite restaurant?
+  difficulty: medium
+  correct_answer: Chuck E. Cheese
+  incorrect_answers:
+  - McDonalds
+  - Taco Bell
+  - Wendys
+- question: What was Halliday's favourite video?
+  difficulty: medium
+  correct_answer: Take On Me
+  incorrect_answers:
+  - Cryin In The Rain
+  - You Are The One
+  - Early Morning
+- question: What hallway does Parzival walk down in the library?
+  difficulty: hard
+  correct_answer: three
+  incorrect_answers:
+  - four
+  - one
+  - two
+- question: What is the third thing that IRok hates?
+  difficulty: hard
+  correct_answer: Tabouleh
+  incorrect_answers:
+  - Lentils
+  - Soup
+  - Ice Cream
+- question: Where did Art3mis' dad die?
+  difficulty: easy
+  correct_answer: Loyalty Center
+  incorrect_answers:
+  - IOI Headquarters
+  - Home
+  - Movie Theater
+- question: What is Wade's middle name?
+  difficulty: hard
+  correct_answer: Owen
+  incorrect_answers:
+  - Michael
+  - Boggs
+  - Ethan
+- question: What is Art3mis' real name? 
+  difficulty: easy
+  correct_answer: Samantha
+  incorrect_answers:
+  - Kaitlyn
+  - Sam
+  - Nicole
+- question: What movie did Halliday watch on his date with Kira?
+  difficulty: medium
+  correct_answer: The Shining
+  incorrect_answers:
+  - The Haunting
+  - The Silence of the Lambs
+  - Pulp Fiction
+- question: What is the number of Aech's mail truck? 
+  difficulty: hard
+  correct_answer: eleven seventy two
+  incorrect_answers:
+  - eleven sixty two
+  - eleven eighty
+  - eleven thirty one
+- question: What is the last thing Halliday says in the movie?
+  difficulty: easy
+  correct_answer: Thanks for playng my game
+  incorrect_answers:
+  - You did a great job
+  - Take care of the Oasis
+  - Don't accidently erase the Oasis
+- question: What was Samantha's surname?
+  difficulty: medium
+  correct_answer: Cook
+  incorrect_answers:
+  - Crane
+  - Clarke
+  - Campbell
+- question: What level artifact is the Orb of Osuvox? 
+  difficulty: medium
+  correct_answer: ninety nine
+  incorrect_answers:
+  - one hundo
+  - ninety
+  - ninety five
+- question: What Atari 2600 game had to be played in order to solve the third clue?
+  difficulty: medium
+  correct_answer: Adventure
+  incorrect_answers:
+  - River Raid
+  - Missle Command
+  - Centipede
+- question: Into what sector does the third clue lead?
+  difficulty: hard
+  correct_answer: fourteen
+  incorrect_answers:
+  - twelve
+  - thirteen
+  - ten
+- question: On what days was the Oasis closed after Parzival took control?
+  difficulty: medium
+  correct_answer: Tuesday and Thursday
+  incorrect_answers:
+  - Saturday and Sunday
+  - Friday and Saturday
+  - Wednesday and Friday
+- question: Which of these vehicles DOES NOT appear in the movie?
+  difficulty: medium
+  correct_answer: Herbie
+  incorrect_answers:
+  - Bigfoot
+  - A Team GMC Vandura
+  - Batmobile
+- question: What drink does Sorento say he drinks while trying to convince Wade that he is cool?
+  difficulty: hard
+  correct_answer: Tab
+  incorrect_answers:
+  - Mountain Dew
+  - Josta
+  - Zima with Jolly Ranchers
+- question: What year was on the quarters covering Hallidays eyes in his coffin?
+  difficulty: medium
+  correct_answer: Nineteen Seventy Two
+  incorrect_answers:
+  - Twenty eighteen
+  - Nineteen seventy eight
+  - Nineteen seventy nine
+- question: Who created the very first Easter Egg that is referenced in the movie?
+  difficulty: hard
+  correct_answer: Warren Robinett
+  incorrect_answers:
+  - Hironobu Sakaguchi
+  - Michael Morhaime
+  - Shigeru Miyamoto
+- question: Which superhero is it said that you can climb Mount Everest with?
+  difficulty: easy
+  correct_answer: Batman
+  incorrect_answers:
+  - Spiderman
+  - Superman
+  - Deadpool
+- question: What was Wades address in the Stacks?
+  difficulty: medium
+  correct_answer: Unit 56k
+  incorrect_answers:
+  - Unit 24k
+  - Unit 64k
+  - Unit 128k
+- question: What logo is on Parzivals belt? 
+  difficulty: medium
+  correct_answer: Thundercats
+  incorrect_answers:
+  - Captain Caveman
+  - Mortal Kombat
+  - Go Bots
+- question: Which horror movie character did Aech shoot on Mount Doom in the beginning of the movie?
+  difficulty: easy
+  correct_answer: Freddy Kreuger
+  incorrect_answers:
+  - Michael Myers
+  - Chucky
+  - Dann The Ripper
+- question: How many points would be subtracted in a game of 301 on the dart board in Halliday's room?
+  difficulty: hard
+  correct_answer: fifty two
+  incorrect_answers:
+  - one hundred two
+  - forty three
+  - ninety
+- question: What is the theater called where the High 5 go inside The Shining movie?
+  difficulty: easy
+  correct_answer: The Overlook
+  incorrect_answers:
+  - Graumans Chinese Theater
+  - Studio 54
+  - Studio 28
+- question: The box holding the Orb of Osuvox is from what movie?
+  difficulty: medium
+  correct_answer: Gremlins
+  incorrect_answers:
+  - Fear and Loathing in Las Vegas
+  - The Big Lebowski
+  - Short Circuit
+- question: How many points did young Halliday have at the end of the Atari game Flag Ship?
+  difficulty: hard
+  correct_answer: fourty four seventy
+  incorrect_answers:
+  - thirty three seventy
+  - fourty seventy
+  - thirty seventy
+- question: What two movies are refrenced by Parzival's choice of driving a DeLorean? 
+  difficulty: hard
+  correct_answer: Back to the Future and Knight Rider
+  incorrect_answers:
+  - Back to the Future and The Lost Boys
+  - Back to the Future and Weird Science
+  - Back to the Future and Beetlejuice
+- question: The semi truck that is jack knifing during the race is from what movie? 
+  difficulty: hard
+  correct_answer: Big Trouble in Little China
+  incorrect_answers:
+  - Bird on a Wire
+  - Mad Max
+  - Cars 3
+- question: The movie theater shown during the race is playing Jack Slater 3, what movie is this from? 
+  difficulty: hard
+  correct_answer: The Last Action Hero
+  incorrect_answers:
+  - Gattaca
+  - Who Framed Roger Rabbit
+  - Ready Player One
+- question: Which of these CAN NOT be found in Aech's workshop? 
+  difficulty: medium
+  correct_answer: The airplane from Airplane!
+  incorrect_answers:
+  - 1961 Ferrari 250 GT from Ferris Buellers Day Off
+  - Eagle 5 Space RV from Spaceballs
+  - The Valley Forge from Silent Running
+- question: What 1984 movie's main character also lived in a mobile home? 
+  difficulty: hard
+  correct_answer: The Last Starfighter
+  incorrect_answers:
+  - Flight of the Navigator
+  - Explorers
+  - Killer Klowns from Outer Space
+- question: What movie is Shoto's car that he reached the copper key with from? 
+  difficulty: hard
+  correct_answer: Smokey and the Bandit
+  incorrect_answers:
+  - Herbie The Love Bug
+  - The Fast and the Furious 37
+  - Talladega Nights
+- question: Aech's sign in her workshop, Cocktails and Dreams, is from what movie? 
+  difficulty: easy
+  correct_answer: Cocktail
+  incorrect_answers:
+  - Dirty Dancing
+  - Roadhouse
+  - Powder
+- question: Parzival and Art3mis dance to Stayin Alive which is from what 1977 movie? 
+  difficulty: medium
+  correct_answer: Saturday Night Fever
+  incorrect_answers:
+  - Boogie Nights
+  - Xanadu
+  - Disco Fever
+- question: Before Wade first puts on the headset to enter Oasis, there is a vote for Goldie Wilson poeter nearby. What movie can this originally be seen in?  
+  difficulty: hard
+  correct_answer: Back to the Future
+  incorrect_answers:
+  - Idiocracy
+  - Independence Day
+  - Armageddon
+- question: What movie did the spell cast to use the Orb of Osuvox come from?
+  difficulty: hard
+  correct_answer: Excalibur
+  incorrect_answers:
+  - Army of Darkness
+  - Evil Dead 1
+  - Evil Dead 2
+- question: When Halliday and Morrow are discussing the date with Kira, what is Halliday working on?
+  difficulty: hard
+  correct_answer: the build of room 237
+  incorrect_answers:
+  - the build of Mount Doom
+  - the build of the disco room
+  - the build of the NYC racetrack
+- question: When Wade takes off his glasses before donning the headset, what is on the lunchbox he places them on?
+  difficulty: medium
+  correct_answer: Masters of the Universe
+  incorrect_answers:
+  - Micro Machines
+  - Voltron
+  - The Dukes of Hazzard
+- question: When Wade is giving his speech before the last battle, what emblem is on the side of his headpiece?
+  difficulty: hard
+  correct_answer: The Greatest American Hero
+  incorrect_answers:
+  - Mork and Mindy
+  - C.H.I.P.S.
+  - ALF
+- question: The tiny IOI cars parked by the Stacks are what model?
+  difficulty: hard
+  correct_answer: Zagato Vulpes
+  incorrect_answers:
+  - Smart
+  - Twizys
+  - Volt
+- question: The tiny IOI vehicles parked in front of IOI are what model? 
+  difficulty: hard
+  correct_answer: Twizys
+  incorrect_answers:
+  - Zagato Vulupes
+  - Volt
+  - Isetta
